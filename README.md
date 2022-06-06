@@ -1,5 +1,6 @@
 ## Demo: https://monumental-genie-974976.netlify.app
 
 ## Preview:
+https://user-images.githubusercontent.com/72203829/172198594-6e6048a9-d1a6-4ceb-afc2-f871b82de310.mp4
 
-https://res.cloudinary.com/dx1jwn9cz/video/upload/v1654530869/yahoo-messenger-emotions-input-preview_1_wxqblz.mp4
+
